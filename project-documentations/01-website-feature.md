@@ -1,0 +1,1 @@
+<!-- Các tính năng của website, phần nào dễ test, phần nào chậm -->
