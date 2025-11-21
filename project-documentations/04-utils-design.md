@@ -1,1 +1,8 @@
-<!-- Các file tiện ích (utils) cần thiết -->
+- genUsername(): Tạo chuỗi ngẫu nhiên hợp lệ cho tên người dùng.
+- genPassword(): Tạo mật khẩu ngẫu nhiên theo quy tắc độ phức tạp.
+- genEmail(): Tạo email ngẫu nhiên duy nhất để đăng ký.
+- genFirstLastName(): Tạo tên và họ ngẫu nhiên.
+- sortData(headerLocator, order): Nhấn vào tiêu đề cột để sắp xếp dữ liệu (DESC/ASC) trên các bảng.
+- selectDropdownValue(locator, value): Mở, chọn giá trị, đóng một dropdown.
+- uploadFile(locator, path): Tải một tệp bất kỳ lên input tệp, tái sử dụng cho các form khác nhau.
+- scrollTo(locator): Cuộn đến phần tử
